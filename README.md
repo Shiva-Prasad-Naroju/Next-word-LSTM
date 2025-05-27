@@ -26,24 +26,23 @@ Text: The Tragedy of Hamlet, Prince of Denmark by William Shakespeare
 
 ## 🧪 Model Summary:
 
+Parameter and Value
 ---
-Parameter	                Value
----
-Model Type	                LSTM (RNN)
+Model Type	            -    LSTM (RNN)
 
-Layers	Embedding           → LSTM → Dense
+Layers	Embedding       -    → LSTM → Dense
 
-Epochs	                    50
+Epochs	                -    50
 
-Optimizer	                Adam
+Optimizer	            -    Adam
 
-Loss Function               Categorical Crossentropy
+Loss Function           -    Categorical Crossentropy
 
-Accuracy Achieved	        ~40%
+Accuracy Achieved	    -    ~40%
 
-Framework	                TensorFlow 2.15 + Keras
+Framework	             -   TensorFlow 2.15 + Keras
 
-Python Version	            3.10.16
+Python Version	         -   3.10.16
 
 Note: The model can be improved with more epochs, better preprocessing, or fine-tuned architecture.
 
